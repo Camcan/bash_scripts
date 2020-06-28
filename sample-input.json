@@ -1,0 +1,15 @@
+{
+  "sources": [
+    {
+      "name": "BashBunny Payloads",
+      "slug": "bashbunny-payloads",
+      "repo": "https://github.com/hak5/bashbunny-payloads.git",
+      "categories": [
+        {
+          "name": "Docs",
+          "path": "docs"
+        }
+      ]
+    }
+  ]
+}
